@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
@@ -10,7 +9,6 @@ export default class App extends Component<props> {
       <View style={styles.container}>
         <Text style={styles.titulo}>Olá Mundo</Text>
 
-        <StatusBar style="auto" />
       </View>
     );
   }
