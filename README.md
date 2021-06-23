@@ -13,8 +13,8 @@
  
 ## Modelos:
 
-- Modelo 1: ![Template](https://github.com/Raii-Azevedo/Template-basico-react-native/blob/main/template.js)
-- Modelo 2: ![Template](https://github.com/Raii-Azevedo/Template-basico-react-native/blob/main/App.js)
+- Modelo 1: [Template](https://github.com/Raii-Azevedo/Template-basico-react-native/blob/main/template.js)
+- Modelo 2: [Template](https://github.com/Raii-Azevedo/Template-basico-react-native/blob/main/App.js)
  
 ## Authors
  
